@@ -5,6 +5,8 @@ using namespace std;
 
 int main()//funcion principal
 {//inicio
+    cout<<"CALCULADORA DE  AREA Y VOLUMEN DE CASQUETE ESFERICO"<<endl;
+    cout<<endl;
     float R,h,A,V;
     cout<<"Valor de R= ";
     cin>>R;
